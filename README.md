@@ -37,7 +37,7 @@ Cookies and Web Beacons
 Like any other website, Hafiz Abdullah uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
 For more general information on cookies, please read 
-ref="https://www.privacypolicyonline.com/what-are-cookies/">"What Are Cookies"
+ref="https://www.privacypolicyonline.com/what-are-cookies
 
 Google DoubleClick DART Cookie
 
